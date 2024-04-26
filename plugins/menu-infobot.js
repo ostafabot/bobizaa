@@ -16,7 +16,7 @@ const defaultMenu = {
   header: '╭─────≼ %category ≽',
   body: '╎≡ %cmd',
   footer: '╰┄┄┄┄┄┄┄┄┄┄┄┄┄〢',
-  after: 'BOBIZA 👑',
+  after: 'MOSTAFA 👑',
 }
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args, command}) => {
 let tags = {
@@ -179,8 +179,8 @@ let tags = {
 	externalAdReply: {
 	title: 'قسم خاص معلومات عن البوت',
 	body: 'اليك الاوامر الخاصة بهذا القسم',
-	thumbnailUrl: 'https://telegra.ph/file/22455a32e324068fa1922.jpg',
-	sourceUrl: 'instagram.com/noureddine_ouafy',
+	thumbnailUrl: 'https://telegra.ph/file/1d5c62829165c59646da0.jpg',
+	sourceUrl: 'instagram.com/mostaf.fc',
 	mediaType: 1,
 	renderLargerThumbnail: true
 	}}})
