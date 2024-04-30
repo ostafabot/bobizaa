@@ -47,7 +47,7 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 //* ****************************
 global.wm2 = `${dia} ${fecha}\n༆R⃨E⃨D⃨I⃨⫸X⃨༄`;
 global.gt = '༆R⃨E⃨D⃨I⃨⫸X⃨༄';
-global.mysticbot = 'The BOBIZA';
+global.mysticbot = 'The ༆R⃨E⃨D⃨I⃨⫸X⃨༄';
 global.md = 'https://instagram.com/mostaf.fc';
 global.mysticbot = 'https://instagram.com/mostaf.fc';
 global.waitt = '*[ ⏳ ] LOADING...*';
