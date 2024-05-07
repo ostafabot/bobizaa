@@ -152,7 +152,7 @@ renderLargerThumbnail: true
     ],m, rpl)*/
 
   } catch (e) {
-    conn.reply(m.chat, '❎ هناك خطأ في لائحة الاوامر', m)
+    conn.reply(m.chat, '❎  حاول مرة اخرا هناك خطأ في لائحة الاوامر', m)
     throw e
   }
 }
