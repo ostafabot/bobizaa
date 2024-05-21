@@ -137,7 +137,7 @@ text: text,
 contextInfo: {
 externalAdReply: {
 title: 'mostafa BOT ♥',
-body: "أول بوت واتساب في العالم العربي 💖",
+body: "أو.ل بوت واتساب في العالم العربي 💖",
 thumbnailUrl: 'https://telegra.ph/file/c158e9d568fb35ee6c52a.jpg',
 sourceUrl: 'https://instagram.com/mostaf.fc',
 mediaType: 1,
